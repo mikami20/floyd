@@ -1,0 +1,2 @@
+C:\ootanilab\floyd\x64\Debug\floyd.exe
+C:\otanilab\floyd\x64\Debug\floyd.exe
